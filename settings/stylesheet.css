@@ -1,0 +1,36 @@
+body {font-family: Verdana;}
+form {display:inline;}
+select {height:45pt; font-size:28pt; vertical-align:middle;}
+a {text-decoration:none;}
+td {vertical-align:middle;}
+
+
+input[type="text"],input[type="number"],input[type="email"],input[type="tel"],input[type="password"] {height:45pt; font-size:28pt;}
+input[type="hidden"] {display:none;visibility:hidden;}
+
+
+.EventsCheckbox {height:100%;width:100%;vertical-align:middle;margin:0px;}
+
+.NavBar button {width:auto;height:auto;margin-bottom:5pt;-webkit-appearance:none;}
+.NavBar span {font-size:25pt;width:auto;height:auto;}
+
+.ChangeBox {-webkit-appearance:none;float:right;}
+
+.NotificationBox th {font-size:32pt;text-align:center;vertical-align:middle;height:60pt;}
+.NotificationBox td {font-size:18pt;text-align:center;vertical-align:middle;}
+
+.InputsBox th {font-size:32pt;text-align:center;vertical-align:middle;height:60pt;}
+.InputsBox td {font-size:30pt;vertical-align:middle;}
+
+.BoxesRedirect th {font-size:32pt;text-align:center;vertical-align:middle;height:60pt;}
+.BoxesRedirect td {width:50%;vertical-align:middle;}
+.BoxesRedirect input[type='submit'] {width:98%;height:65pt;font-size:28pt;}
+.BoxesRedirect form {height:100%;}
+
+.Credentials tr {font-size:36pt;}
+.Credentials th {font-size:40pt;height:70pt;}
+
+.LogDisplay {font-size: 10pt;}
+.LogDisplayTitle {font-size: 15pt;}
+
+.TextualOutput {font-size:25pt;}
